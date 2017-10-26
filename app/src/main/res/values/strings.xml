@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dice_page">Dice</string>
+    <string name="web_link">Web View</string>
+    <string name="hello_dice_game_fragment">Dice Game Screen</string>
+    <string name="dice_roller">Dice Game</string>
+    <string name="roll_button">Roll</string>
+    <string name="list_view_title">The Last Five Scores from now</string>
+</resources>
